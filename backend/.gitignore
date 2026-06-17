@@ -1,0 +1,14 @@
+target/
+*.class
+*.log
+.mvn/
+mvnw
+mvnw.cmd
+.idea/
+*.iml
+.vscode/
+src/main/resources/static/uploads/resumes/*
+src/main/resources/static/uploads/profiles/*
+!src/main/resources/static/uploads/resumes/.gitkeep
+!src/main/resources/static/uploads/profiles/.gitkeep
+.DS_Store
