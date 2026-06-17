@@ -33,7 +33,7 @@ export default function LandingPage() {
       {/* Hero */}
       <section className="hero">
         <div>
-          <span className="hero-eyebrow">College Placement Cell</span>
+          <span className="hero-eyebrow">ACGCET Placement Cell</span>
           <h1>
             Every placement,
             <br />
