@@ -123,6 +123,55 @@ Admins are redirected to `/admin/dashboard`, students to `/student/dashboard`, a
 
 Admin routes are only reachable by users with the `ADMIN` role; student routes only by `STUDENT`. This is enforced both in the frontend (`ProtectedRoute`) and the backend (`SecurityConfig` + `@PreAuthorize`).
 
+
+# 📸 Project Screenshots
+
+## 🏠 Landing Page
+
+<p align="center">
+  <img src="./screenshots/landingpage.png" alt="Landing Page" width="900"/>
+</p>
+
+---
+
+## 🔐 Login Page
+
+<p align="center">
+  <img src="./screenshots/loginpage.png" alt="Login Page" width="500"/>
+</p>
+
+---
+
+## 📝 Student Registration
+
+### Registration Form - Part 1
+
+<p align="center">
+  <img src="./screenshots/signupPage1.png" alt="Signup Page 1" width="700"/>
+</p>
+
+### Registration Form - Part 2
+
+<p align="center">
+  <img src="./screenshots/signupPage2.png" alt="Signup Page 2" width="700"/>
+</p>
+
+---
+
+## 👨‍🎓 Student Dashboard
+
+<p align="center">
+  <img src="./screenshots/StudentDashboard.png" alt="Student Dashboard" width="900"/>
+</p>
+
+---
+
+## 👨‍💼 Admin Dashboard
+
+<p align="center">
+  <img src="./screenshots/AdminDashboard.png" alt="Admin Dashboard" width="900"/>
+</p>
+
 ## Security notes
 
 - Passwords are hashed with BCrypt before storage — never stored in plain text.
