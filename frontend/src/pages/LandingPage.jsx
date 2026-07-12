@@ -33,7 +33,7 @@ export default function LandingPage() {
       {/* Hero */}
       <section className="hero">
         <div>
-          <span className="hero-eyebrow">College Placement Cell</span>
+          <span className="hero-eyebrow">ACGCET Placement Cell</span>
           <h1>
             Every placement,
             <br />
@@ -56,11 +56,11 @@ export default function LandingPage() {
         <div className="hero-visual">
           <div className="hero-stat-row">
             <span className="stat-label">Companies onboarded</span>
-            <span className="stat-num">120+</span>
+            <span className="stat-num">60+</span>
           </div>
           <div className="hero-stat-row">
             <span className="stat-label">Students placed</span>
-            <span className="stat-num">3,400+</span>
+            <span className="stat-num">120+</span>
           </div>
           <div className="hero-stat-row">
             <span className="stat-label">Avg. package</span>
