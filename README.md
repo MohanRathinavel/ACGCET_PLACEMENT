@@ -8,7 +8,7 @@ PlaceHub is a full-stack placement management system for a college placement cel
 ## 🏠 Landing Page
 
 <p align="center">
-  <img src="./screenshots/landing-page.png" alt="Landing Page" width="900"/>
+  <img src="./screenshots/landingpage.png" alt="Landing Page" width="900"/>
 </p>
 
 ---
@@ -16,7 +16,7 @@ PlaceHub is a full-stack placement management system for a college placement cel
 ## 🔐 Login Page
 
 <p align="center">
-  <img src="./screenshots/login-page.png" alt="Login Page" width="500"/>
+  <img src="./screenshots/loginpage.png" alt="Login Page" width="500"/>
 </p>
 
 ---
@@ -26,13 +26,13 @@ PlaceHub is a full-stack placement management system for a college placement cel
 ### Registration Form - Part 1
 
 <p align="center">
-  <img src="./screenshots/signup-page-1.png" alt="Signup Page 1" width="700"/>
+  <img src="./screenshots/signupPage1.png" alt="Signup Page 1" width="700"/>
 </p>
 
 ### Registration Form - Part 2
 
 <p align="center">
-  <img src="./screenshots/signup-page-2.png" alt="Signup Page 2" width="700"/>
+  <img src="./screenshots/signupPage2.png" alt="Signup Page 2" width="700"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@ PlaceHub is a full-stack placement management system for a college placement cel
 ## 👨‍🎓 Student Dashboard
 
 <p align="center">
-  <img src="./screenshots/student-dashboard.png" alt="Student Dashboard" width="900"/>
+  <img src="./screenshots/StudentDashboard.png" alt="Student Dashboard" width="900"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@ PlaceHub is a full-stack placement management system for a college placement cel
 ## 👨‍💼 Admin Dashboard
 
 <p align="center">
-  <img src="./screenshots/admin-dashboard.png" alt="Admin Dashboard" width="900"/>
+  <img src="./screenshots/AdminDashboard.png" alt="Admin Dashboard" width="900"/>
 </p>
 
 ## Tech stack
